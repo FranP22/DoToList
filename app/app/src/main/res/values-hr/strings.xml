@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">projectprizmic</string>
+
+    <string name="username">Korisničko ime</string>
+    <string name="password">Lozinka</string>
+    <string name="rpassword">Ponovite Lozinku</string>
+    <string name="login">Login</string>
+    <string name="register">Registracija</string>
+    <string name="backtologin">Nazad na Login</string>
+
+    <string name="complete">Završi</string>
+    <string name="completed">Završeno</string>
+    <string name="delete">Izbriši</string>
+    <string name="add">Nadodaj</string>
+    <string name="clear">Počisti</string>
+    <string name="submit">Pošalji</string>
+
+    <string name="task">Obaveza</string>
+    <string name="hp">Visoki Prioritet?</string>
+    <string name="tl">Ograničeno Vremena?</string>
+    <string name="days">Dana</string>
+
+    <string name="lptasks">Niski Prioritet</string>
+    <string name="hptasks">Visoki Prioritet</string>
+    <string name="ctasks">Završeno</string>
+    <string name="nothingfound">Nema Ničega</string>
+
+</resources>

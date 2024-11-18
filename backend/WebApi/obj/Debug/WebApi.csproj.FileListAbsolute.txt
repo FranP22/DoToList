@@ -1,0 +1,412 @@
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\ApplicationInsights.config
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\WebApi.dll.config
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\WebApi.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\WebApi.pdb
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\csc.exe
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\csc.exe.config
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\csc.rsp
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\csi.exe
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\csi.exe.config
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\csi.rsp
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\System.Console.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\vbc.exe
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\vbc.rsp
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\EntityFramework.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Microsoft.AI.Web.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\System.Web.Helpers.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\System.Web.Http.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\System.Web.Mvc.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\System.Web.Optimization.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\System.Web.Razor.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\System.Web.WebPages.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\WebGrease.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\EntityFramework.xml
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\System.Web.Helpers.xml
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\System.Web.Http.xml
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\System.Web.Mvc.xml
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\System.Web.Optimization.xml
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\System.Web.Razor.xml
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\System.Web.WebPages.xml
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Microsoft.AI.Web.xml
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\WebApi.Migrations.PrvaMigracija.resources
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\WebApi.csproj.GenerateResource.cache
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\WebApi.dll
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\WebApi.pdb
+C:\Users\tkramberger\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\ApplicationInsights.config
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\WebApi.dll.config
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\WebApi.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\WebApi.pdb
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\csc.exe
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\csc.exe.config
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\csc.rsp
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\csi.exe
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\csi.exe.config
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\csi.rsp
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\System.Console.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\vbc.exe
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\vbc.rsp
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\EntityFramework.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\Microsoft.AI.Web.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\System.Web.Helpers.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\System.Web.Http.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\System.Web.Mvc.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\System.Web.Optimization.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\System.Web.Razor.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\System.Web.WebPages.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\WebGrease.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\EntityFramework.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\System.Web.Helpers.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\System.Web.Http.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\System.Web.Mvc.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\System.Web.Optimization.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\System.Web.Razor.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\System.Web.WebPages.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\Microsoft.AI.Web.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\obj\Debug\WebApi.csproj.AssemblyReference.cache
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\obj\Debug\WebApi.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\obj\Debug\WebApi.pdb
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\obj\Debug\WebApi.Migrations.PrvaMigracija.resources
+C:\Users\fpriz\Desktop\WEBAPI\WebApi\WebApi\obj\Debug\WebApi.csproj.GenerateResource.cache
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\ApplicationInsights.config
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\WebApi.dll.config
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\WebApi.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\WebApi.pdb
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\csc.exe
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\csc.exe.config
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\csc.rsp
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\csi.exe
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\csi.exe.config
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\csi.rsp
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\System.Console.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\vbc.exe
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\vbc.rsp
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\EntityFramework.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\Microsoft.AI.Web.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\System.Web.Helpers.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\System.Web.Http.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\System.Web.Mvc.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\System.Web.Optimization.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\System.Web.Razor.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\System.Web.WebPages.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\WebGrease.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\EntityFramework.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\System.Web.Helpers.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\System.Web.Http.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\System.Web.Mvc.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\System.Web.Optimization.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\System.Web.Razor.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\System.Web.WebPages.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\Microsoft.AI.Web.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\obj\Debug\WebApi.csproj.AssemblyReference.cache
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\obj\Debug\WebApi.dll
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\obj\Debug\WebApi.pdb
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\obj\Debug\WebApi.Migrations.FirstMigration.resources
+C:\Users\fpriz\Desktop\WEBAPI\WebApiProject\WebApi\obj\Debug\WebApi.csproj.GenerateResource.cache
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\ApplicationInsights.config
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\WebApi.dll.config
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\WebApi.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\WebApi.pdb
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\csc.exe
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\csc.exe.config
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\csc.rsp
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\csi.exe
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\csi.exe.config
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\csi.rsp
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\System.Console.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\vbc.exe
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\vbc.rsp
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\EntityFramework.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\Microsoft.AI.Web.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\System.Web.Helpers.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\System.Web.Http.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\System.Web.Mvc.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\System.Web.Optimization.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\System.Web.Razor.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\System.Web.WebPages.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\WebGrease.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\EntityFramework.xml
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\System.Web.Helpers.xml
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\System.Web.Http.xml
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\System.Web.Mvc.xml
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\System.Web.Optimization.xml
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\System.Web.Razor.xml
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\System.Web.WebPages.xml
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\Microsoft.AI.Web.xml
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\obj\Debug\WebApi.csproj.AssemblyReference.cache
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\obj\Debug\WebApi.csproj.Up2Date
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\obj\Debug\WebApi.dll
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\obj\Debug\WebApi.pdb
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\obj\Debug\WebApi.Migrations.FirstMigration.resources
+C:\Users\Kit\Desktop\AndroidProject\WebApiProject\WebApi\obj\Debug\WebApi.csproj.GenerateResource.cache

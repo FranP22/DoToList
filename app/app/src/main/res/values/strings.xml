@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">projectprizmic</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="rpassword">Repeat Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="backtologin">Back to Login</string>
+
+    <string name="complete">Complete</string>
+    <string name="completed">Completed</string>
+    <string name="delete">Delete</string>
+    <string name="add">Add</string>
+    <string name="clear">Clear</string>
+    <string name="submit">Submit</string>
+
+    <string name="task">Task</string>
+    <string name="hp">High Priority?</string>
+    <string name="tl">Has Time Limit?</string>
+    <string name="days">Days</string>
+
+    <string name="lptasks">Low Priority Tasks</string>
+    <string name="hptasks">High Priority Tasks</string>
+    <string name="ctasks">Completed Tasks</string>
+    <string name="nothingfound">Nothing Found</string>
+
+</resources>
